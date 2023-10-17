@@ -1,11 +1,15 @@
 algoritmo "Leitura de dados"
 
-var x: inteiro
+var a: caractere
+    b: inteiro
+
 
 inicio
 
-    escreval("Digite sua idade: ")
-    leia(x)
-    escreva("Sua idade é ", x)
+    escreval("Qual o seu Nome?")
+    leia(a)
+    escreval("Qual sua Idade?")
+    Leia(b) 
+    escreva("o seu nomme é ",a," e sua idade é ", b)
 
 fimalgoritmo
