@@ -10,6 +10,6 @@ inicio
     leia(a)
     escreval("Qual sua Idade?")
     Leia(b) 
-    escreva("o seu nomme é ",a," e sua idade é ", b)
+    escreva("o seu nome é ",a," e sua idade é ", b)
 
-fimalgoritmo
+fimalgoritmo 
